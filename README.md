@@ -4,7 +4,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Chandan-dr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **Cloud Computing**
 
 - 📫 Reach out me at **chandandr045@gmail.com**
 # <h2>💻 Languages and Tools:</h2>

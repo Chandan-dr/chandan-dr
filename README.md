@@ -3,7 +3,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Chandan-dr&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Chandan-dr&icon=0&color=6)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Python** and **Cybersecurity**
 - 📫 Reach out to me at **chandandr045@gmail.com**
@@ -27,6 +27,6 @@
 
 <h2>📊 GitHub Stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Chandan-dr&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chandan-dr&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-dr&theme=default_repocard&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Chandan-dr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chandan-dr&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-dr&theme=tokyonight&hide_border=false&layout=compact)

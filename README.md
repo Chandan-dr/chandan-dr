@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
+<!-- 💻 Typing Hands GIF -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/052021f7-2a84-4029-b513-1d121b9cf6f6" width="250" alt="Typing hands" />
+</p>
+
 <h1 align="center">Hi, I'm Chandan D R 👋</h1>
 <h3 align="center">A passionate programmer from India</h3>
 

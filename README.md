@@ -5,7 +5,7 @@
 
 <!-- 💻 Typing Hands GIF -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/052021f7-2a84-4029-b513-1d121b9cf6f6" width="250" alt="Typing hands" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300" alt="Typing hands animation" />
 </p>
 
 <h1 align="center">Hi, I'm Chandan D R 👋</h1>

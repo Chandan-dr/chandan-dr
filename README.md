@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="120" alt="typing keyboard" />
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="120" alt="Typing fingers" />
 </p>
 
 <h1 align="center">Hi, I'm Chandan D R 👋</h1>

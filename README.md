@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="120" alt="typing keyboard" />
+</p>
+
 <h1 align="center">Hi, I'm Chandan D R 👋</h1>
 <h3 align="center">A passionate programmer from India</h3>
 

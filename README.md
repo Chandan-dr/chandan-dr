@@ -5,7 +5,7 @@
 
 <!-- 💻 Typing Hands GIF -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FtN3o5NmV1ZWkyM2t4cDZzd2I2bXlnaGZ2eXVtNjQxMWZhbmlvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer typing animation" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FtN3o5NmV1ZWkyM2t4cDZzd2I2bXlnaGZ2eXVtNjQxMWZhbmlvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer typing animation" />
 </p>
 
 <h1 align="center">Hi, I'm Chandan D R 👋</h1>

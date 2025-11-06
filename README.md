@@ -5,7 +5,7 @@
 
 <!-- 💻 Minimal Typing Keyboard Animation -->
 <p align="center">
-  <img src="https://i.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" alt="Minimal typing animation" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Minimal typing animation" />
 </p>
 
 <h1 align="center">Hi, I'm Chandan D R 👋</h1>

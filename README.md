@@ -1,11 +1,11 @@
 <!-- ✨ Simple Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <!-- 💻 Minimal Typing Keyboard Animation -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8xdDF2MGYyZndldDZtbWc1eHpxb2hyOWZtd2drNzVtZzRud2N6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250" alt="Minimal typing animation" />
+  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW8xdDF2MGYyZndldDZtbWc1eHpxb2hyOWZtd2drNzVtZzRud2N6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="250" alt="Minimal typing animation" />
 </p>
 
 <h1 align="center">Hi, I'm Chandan D R 👋</h1>

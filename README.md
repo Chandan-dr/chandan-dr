@@ -1,9 +1,17 @@
+<!-- 🌊 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:3670A0&height=180&section=header&text=Welcome+to+my+GitHub!+👋&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 <h1 align="center">Hi, I'm Chandan D R 👋</h1>
 <h3 align="center">A passionate programmer from India 🇮🇳</h3>
 
+<!-- ✨ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Python+Django+Developer;Cybersecurity+Learner;Tech+Enthusiast+from+India" alt="Typing SVG" />
+</p>
+
 ---
 
-
+[![](https://visitcount.itsvg.in/api?id=Chandan-dr&icon=0&color=6)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Python** and **Cybersecurity**
 - 📫 Reach out to me at **chandandr045@gmail.com**
@@ -30,3 +38,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Chandan-dr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chandan-dr&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-dr&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+<!-- 🌊 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:00C4CC&height=120&section=footer" />

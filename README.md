@@ -14,7 +14,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Chandan-dr&icon=0&color=0)](https://visitcount.itsvg.in)
-
 - 🌱 I’m currently learning **Python** and **Cybersecurity**
 - 📫 Reach out to me at **chandandr045@gmail.com**
 
